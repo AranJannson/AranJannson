@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Java-For-Beginners](https://github.com/AranJannson/Java-For-Beginners)
 
-- 🌱 I’m currently learning **DJango**
+- 🌱 I’m currently learning **JQuery**
 
 - 👨‍💻 All of my projects are available at [https://www.aranjannson.com/](https://www.aranjannson.com/)
 
