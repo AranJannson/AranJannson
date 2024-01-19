@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aranjannson&label=Profile%20views&color=0e75b6&style=flat" alt="aranjannson" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/AranJannson/PortfolioWebsite)
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/AranJannson/PortfolioWebsite) 
 
 - 🌱 I’m currently learning **nuxt.js**
 
