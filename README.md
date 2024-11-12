@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Final Year Project BSc Computer Science**
 
-- 🌱 I’m currently learning **Electron**
+- 🌱 I’m currently learning **R**
 
 - 👨‍💻 All of my projects are available at [https://www.aranjannson.com/](https://www.aranjannson.com/)
 
-- 💬 Ask me about **Vue, Nuxt, Java, Sorting Algorithms**
+- 💬 Ask me about **Next, ABAC, TypeScript, Sorting Algorithms**
 
 - 📫 How to reach me **me@aranjannson.com**
 
