@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Final Year Project BSc Computer Science**
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **Microservices for JWT Generation and Decoding with ABAC Platforms**
 
 - 👨‍💻 All of my projects are available at [https://www.aranjannson.com/](https://www.aranjannson.com/)
 
-- 💬 Ask me about **Next, ABAC, TypeScript, Sorting Algorithms**
+- 💬 Ask me about **Next.js, ABAC, TypeScript, Full Stack Development, Ratchet Algorithms**
 
 - 📫 How to reach me **me@aranjannson.com**
 
