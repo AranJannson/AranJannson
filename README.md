@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aran Jannson</h1>
-<h3 align="center">An Under Graduate Student In Computer Science</h3>
+<h3 align="center">An Post Graduate Student In Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aranjannson&label=Profile%20views&color=0e75b6&style=flat" alt="aranjannson" /> </p>
 
