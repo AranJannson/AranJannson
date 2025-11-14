@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aranjannson&label=Profile%20views&color=0e75b6&style=flat" alt="aranjannson" /> </p>
 
-- 🔭 I’m currently working on **ABAC Auth As A Microservice With Dynamic Encyrption Schemes**
+- 🔭 I’m currently working on **Next.js 16 Migration Of Portfolio Site**
 
-- 🌱 I’m currently learning **JWT Generation and Decoding with ABAC Platforms**
+- 🌱 I’m currently learning **Cyptographic Maths**
 
 - 👨‍💻 All of my projects are available at [https://www.aranjannson.com/](https://www.aranjannson.com/)
 
