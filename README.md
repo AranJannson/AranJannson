@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aranjannson&label=Profile%20views&color=0e75b6&style=flat" alt="aranjannson" /> </p>
 
-- 🔭 I’m currently working on **Next.js 16 Migration Of Portfolio Site**
+- 🔭 I’m currently working on **Fuzzy Extractors for Post Quantum Security**
 
 - 🌱 I’m currently learning **Cyptographic Maths**
 
