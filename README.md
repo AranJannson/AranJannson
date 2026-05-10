@@ -278,11 +278,11 @@ Infrastructure-focused work combining secure deployment workflows, containerised
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aranjannson&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=c9d1d9&icon_color=7c3aed&count_private=true" alt="Aran Jannson GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranjannson&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=c9d1d9" alt="Most used languages" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aranjannson&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=c9d1d9&icon_color=7c3aed&count_private=true" alt="Aran Jannson GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranjannson&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=c9d1d9" alt="Most used languages" /> -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aranjannson&theme=transparent&hide_border=true&ring=0e75b6&fire=7c3aed&currStreakLabel=0e75b6" alt="GitHub contribution streak" />
 
